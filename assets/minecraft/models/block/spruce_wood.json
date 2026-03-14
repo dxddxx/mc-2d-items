@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "display": {
+    "gui": {
+      "rotation": [ 90, -90, 0 ],
+      "translation": [ 0, 0, 0],
+      "scale":[ 1, 1, 1 ]
+    }
+  },
+  "textures": {
+    "end": "minecraft:block/spruce_log",
+    "side": "minecraft:block/spruce_log"
+  }
+}
