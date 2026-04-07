@@ -9,7 +9,7 @@
         "firstperson_righthand": {
             "rotation": [ 30, 160, 0 ],
             "translation": [ 0, 3, 0],
-            "scale":[ 0.375, 0.375, 0.375]
+            "scale":[ 0.1875, 0.1875, 0.1875]
         },
         "gui": {
             "rotation": [ 90, 180, 0 ],
